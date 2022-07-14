@@ -1,0 +1,60 @@
+@media (max-width: 1397px) {
+    .container {
+        margin: 0 auto;
+        margin-left: 60px;
+    }
+}
+
+@media (max-width: 1302px) {
+    .container {
+        margin: auto;
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 1242px) {
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 560px) {
+    .txtBanner {
+        margin-left: 20px;
+    }
+    div.quadrado-cinza {
+        width: 374px;
+        height: 300px;
+        margin-bottom: -30px;
+    }
+    .jordan img {
+        width: 250px;
+    }
+}
+
+@media (max-width: 480px) {
+    .txtBanner {
+        margin-left: 7px;
+    }
+}
+
+@media (max-width: 462px) {
+    .txtBanner {
+        margin-left: 5px;
+        width: 300px;
+    }
+    .subTitulo {
+        font-size: 25px;
+        line-height: 1;
+        margin-bottom: 5px;
+    }
+    .descricao {
+        line-height: 1.3;
+    }
+    .quadrado-cinza {
+        margin-left: 0;
+    }
+}
